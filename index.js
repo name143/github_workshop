@@ -16,6 +16,7 @@ function examplefunction() {
     console.log ("this ex of fun")
 }
 const divNumber= (num1,num2)=>{
+
     return num1 / num2;
 }
 
