@@ -18,3 +18,4 @@ function examplefunction() {
 const divNumber= (num1,num2)=>{
     return num1 / num2;
 }
+
